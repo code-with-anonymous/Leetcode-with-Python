@@ -28,3 +28,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0070-climbing-stairs) |
+# String
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2470-removing-stars-from-a-string) |
+# Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2470-removing-stars-from-a-string) |
+# Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2470-removing-stars-from-a-string) |
