@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +81,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
+## Greedy
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
+## Counting
+|  |
+| ------- |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
 <!---LeetCode Topics End-->
