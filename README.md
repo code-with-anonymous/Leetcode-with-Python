@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
+| [1293-three-consecutive-odds](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1293-three-consecutive-odds) |
 ## Prefix Sum
 |  |
 | ------- |
