@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,4 +91,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
+## Stack
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
+## Simulation
+|  |
+| ------- |
+| [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 <!---LeetCode Topics End-->
