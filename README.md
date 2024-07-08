@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 ## Simulation
 |  |
@@ -115,4 +116,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
