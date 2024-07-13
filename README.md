@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Stack
 |  |
@@ -121,11 +123,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 ## Recursion
