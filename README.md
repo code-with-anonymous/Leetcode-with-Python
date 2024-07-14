@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
@@ -155,4 +157,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
