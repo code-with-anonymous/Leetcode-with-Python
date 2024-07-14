@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
+| [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 | [1293-three-consecutive-odds](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1293-three-consecutive-odds) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 ## Queue
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 ## String
@@ -148,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
