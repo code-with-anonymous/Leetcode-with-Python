@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1293-three-consecutive-odds) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
+| [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
+| [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
+| [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
 ## Union Find
 |  |
 | ------- |
