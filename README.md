@@ -86,11 +86,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
 | [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
