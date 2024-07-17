@@ -118,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 | [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
 ## Union Find
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 ## Recursion
 |  |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
