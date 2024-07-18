@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 | [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
+| [3194-find-words-containing-character](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/3194-find-words-containing-character) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
+| [3194-find-words-containing-character](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/3194-find-words-containing-character) |
 ## Recursion
 |  |
 | ------- |
