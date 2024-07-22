@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0031-next-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0031-next-permutation) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Greedy
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Stack
@@ -176,4 +180,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
