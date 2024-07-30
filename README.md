@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2232-adding-spaces-to-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
 | [3194-find-words-containing-character](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/3194-find-words-containing-character) |
 ## Prefix Sum
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
+| [2232-adding-spaces-to-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
 ## Binary Search
 |  |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
+| [2232-adding-spaces-to-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
 ## Union Find
 |  |
@@ -166,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2232-adding-spaces-to-a-string) |
 | [3194-find-words-containing-character](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/3194-find-words-containing-character) |
 ## Recursion
 |  |
