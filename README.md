@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
