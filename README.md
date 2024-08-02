@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
