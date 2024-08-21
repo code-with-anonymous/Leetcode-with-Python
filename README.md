@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 | [1293-three-consecutive-odds](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1293-three-consecutive-odds) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
+| [1603-running-sum-of-1d-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2232-adding-spaces-to-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2232-adding-spaces-to-a-string) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
