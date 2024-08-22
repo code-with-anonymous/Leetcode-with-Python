@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1603-running-sum-of-1d-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2048-build-array-from-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
+| [2048-build-array-from-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2232-adding-spaces-to-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2551-apply-operations-to-an-array) |
