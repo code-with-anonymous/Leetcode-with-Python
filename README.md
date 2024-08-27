@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
+| [0898-transpose-matrix](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0898-transpose-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 | [1293-three-consecutive-odds](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1293-three-consecutive-odds) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0898-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 | [2048-build-array-from-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2058-concatenation-of-array) |
@@ -217,4 +219,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
