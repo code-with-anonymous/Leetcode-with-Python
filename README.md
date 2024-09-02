@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Simulation
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/2232-adding-spaces-to-a-string) |
