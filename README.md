@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0724-find-pivot-index](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0898-transpose-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0983-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1720-crawler-log-folder) |
@@ -229,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0898-transpose-matrix](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1791-richest-customer-wealth) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
