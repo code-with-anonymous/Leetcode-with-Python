@@ -199,11 +199,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
+| [1013-fibonacci-number](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Matrix
 |  |
@@ -235,4 +238,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
