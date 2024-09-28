@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0075-sort-colors) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
