@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0394-decode-string) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0345-reverse-vowels-of-a-string) |
