@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0007-reverse-integer) |
 | [0415-add-strings](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0415-add-strings) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/1013-fibonacci-number) |
