@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0031-next-permutation](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0229-majority-element-ii) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/code-with-anonymous/Leetcode-with-Python/tree/master/0633-sum-of-square-numbers) |
 ## Sorting
